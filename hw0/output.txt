@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Nehal
+   last: Belgamwar
+email: nsb360@nyu.edu
+leaderboard: statnlp
